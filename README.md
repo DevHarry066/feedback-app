@@ -1,3 +1,9 @@
+# Project Description
+
+This project is to get the user feedback for the app with rating 1-10 and add into the Feedback List.
+
+This includes backend API for response
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
