@@ -4,6 +4,10 @@ This project is to get the user feedback for the app with rating 1-10 and add in
 
 It takes rating 1-10 from user through checkbox along with review as text input and some Validation and then add the review into the Reviews 
 
+Added useContext hooks for sending the feedback data from one component to sub tree
+
+Added useEfect to edit the Feedback 
+
 This includes backend API for response
 
 # Getting Started with Create React App
