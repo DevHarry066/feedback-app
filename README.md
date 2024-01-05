@@ -13,7 +13,7 @@ Added useContext hooks for sending the feedback data from one component to sub t
 
 Added useEfect to edit the Feedback 
 
-This includes backend API for response
+This includes backend with JSON-Server with Add, Edit, Get and Delete methods
 
 # Getting Started with Create React App
 
